@@ -1,0 +1,5 @@
+group Server
+    FSharp.Core
+    Saturn
+    Fable.JsonConverter
+    FSharp.Data.GraphQL.Server
